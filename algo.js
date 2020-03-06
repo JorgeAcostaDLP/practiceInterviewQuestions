@@ -217,7 +217,7 @@ function consecutive(num) {
       end = start;
     }
   }
-  return ans;
+  return answer;
 }
 
 // Number of consecutive subArrays that multiplied are equal or less than target Input: nums = [10, 5, 2, 6], k = 100 Output: 8
